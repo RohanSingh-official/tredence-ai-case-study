@@ -1,6 +1,6 @@
 # Tredence AI Engineering Intern - Case Study Solution
 
-This repository contains the solution for the **AI Engineering Intern** case study at Tredence Analytics (2025 Cohort).
+This repository contains the solution for the **AI Engineering Intern** case study at Tredence Analytics 
 
 ## Problem: The Self-Pruning Neural Network
 The task was to design and implement a neural network that learns to prune its own weights dynamically during the training process. This is achieved through a custom prunable linear layer and a sparsity regularization loss function.
@@ -41,4 +41,4 @@ For a detailed analysis of the accuracy-vs-sparsity trade-off, please refer to t
 
 ---
 **Author**: Rohan Singh
-**Role**: AI Engineering Intern Applicant (2025 Cohort)
+**Role**: AI Engineering Intern Applicant 
