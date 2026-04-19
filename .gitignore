@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv
+venv/
+ENV/
+env/
+
+# Data and Models
+data/
+*.pth
+*.pt
+
+# Reports/Images
+# gate_distribution.png # Included as per request
